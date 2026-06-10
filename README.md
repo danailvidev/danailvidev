@@ -3,8 +3,7 @@
 </div>
 
 <div align="center">
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/danailvidev/count.svg" alt="Visitor count" />
+  <img src="https://komarev.com/ghpvc/?username=danailvidev&label=Profile%20views&color=2563eb&style=for-the-badge" alt="Profile views" />
 </div>
 
 <h1 align="center">
@@ -40,7 +39,11 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,angular,nodejs,express,mongodb,html,css,sass,git,github,vscode" alt="Languages and tools" />
+  <img src="https://skillicons.dev/icons?i=ts,js,dart,angular,flutter,nodejs,nestjs,express,mongodb,supabase" alt="Languages and frameworks" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=html,css,sass,git,github,vscode" alt="Frontend and developer tools" />
+  <br>
+  <img src="https://img.shields.io/badge/Upstash-00E9A3?style=for-the-badge&logo=upstash&logoColor=000000" alt="Upstash" />
 </p>
 
 <hr>
