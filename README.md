@@ -12,9 +12,9 @@
 
 ### A software engineer focused on practical, user-friendly applications with TypeScript, Angular, Ionic, Node.js, and MongoDB.
 
-- 🔭 I like building web and mobile-friendly applications that solve real product problems.
-- 🌱 I’m currently exploring AI-assisted engineering, automation, and better developer workflows.
-- 💬 Ask me about **TypeScript, Angular, Ionic, Node.js, Express, MongoDB, PWAs, or web app architecture**.
+- 🔭 I build production-ready web and mobile products from idea to launch.
+- 🌱 Currently focused on AI-powered product features, MCP servers, RAG pipelines, automation, and scalable developer workflows.
+- 💬 Strongest around **TypeScript, Angular, Ionic, Node.js, NestJS, MongoDB, Supabase, Flutter, AI integrations, and product architecture**.
 - 📍 Based in **Bulgaria**.
 - 🤝 Open to collaboration and software development opportunities.
 
@@ -47,6 +47,13 @@
   <a href="https://upstash.com/" target="_blank">
     <img src="https://img.shields.io/badge/Upstash-00E9A3?style=for-the-badge&logoColor=000000" alt="Upstash" />
   </a>
+  <br>
+  <img src="https://img.shields.io/badge/MCP%20Servers-111827?style=for-the-badge" alt="MCP Servers" />
+  <img src="https://img.shields.io/badge/RAG%20Pipelines-2563EB?style=for-the-badge" alt="RAG Pipelines" />
+  <img src="https://img.shields.io/badge/LLM%20Apps-7C3AED?style=for-the-badge" alt="LLM Apps" />
+  <img src="https://img.shields.io/badge/Vector%20Search-0F766E?style=for-the-badge" alt="Vector Search" />
+  <img src="https://img.shields.io/badge/AI%20Agents-F97316?style=for-the-badge" alt="AI Agents" />
+  <img src="https://img.shields.io/badge/Automation-334155?style=for-the-badge" alt="Automation" />
 </p>
 
 <hr>
