@@ -77,7 +77,9 @@ An AI-powered grocery planning app that helps people scan receipts, track grocer
 
 <hr>
 
-## 🚀 Featured Projects
+## 🚀 GitHub Projects
+
+Selected public repositories from earlier web app work, product prototypes, and experiments.
 
 <div align="center">
   <a href="https://github.com/danailvidev/team-app">
