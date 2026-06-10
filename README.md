@@ -7,7 +7,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=42&center=true&vCenter=true&width=700&height=70&color=4493F8&duration=4000&lines=Hi+there!+I'm+Danail+Videv;Software+Engineer;TypeScript+%2B+Angular+%2B+Node.js" alt="Typing intro for Danail Videv" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=42&center=true&vCenter=true&width=700&height=70&color=4493F8&duration=4000&lines=Hi+there!+I'm+Danail+Videv;Software+Engineer;React+%2B+Bun+%2B+Vite" alt="Typing intro for Danail Videv" />
 </h1>
 
 ### A software engineer focused on practical, user-friendly applications with TypeScript, React, Angular, Node.js, and MongoDB.
