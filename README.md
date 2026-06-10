@@ -10,11 +10,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=42&center=true&vCenter=true&width=700&height=70&color=4493F8&duration=4000&lines=Hi+there!+I'm+Danail+Videv;Software+Engineer;TypeScript+%2B+Angular+%2B+Node.js" alt="Typing intro for Danail Videv" />
 </h1>
 
-### A software engineer focused on practical, user-friendly applications with TypeScript, Angular, Ionic, Node.js, and MongoDB.
+### A software engineer focused on practical, user-friendly applications with TypeScript, React, Angular, Node.js, and MongoDB.
 
 - 🔭 I build production-ready web and mobile products from idea to launch.
 - 🌱 Currently focused on AI-powered product features, MCP servers, RAG pipelines, automation, and scalable developer workflows.
-- 💬 Strongest around **TypeScript, Angular, Ionic, Node.js, NestJS, MongoDB, Supabase, Flutter, AI integrations, and product architecture**.
+- 💬 Strongest around **TypeScript, React, Angular, Node.js, NestJS, Bun, Vite, MongoDB, Supabase, Flutter, AI integrations, and product architecture**.
 - 📍 Based in **Bulgaria**.
 - 🤝 Open to collaboration and software development opportunities.
 
@@ -39,7 +39,7 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,dart,angular,flutter,nodejs,nestjs,express,mongodb,supabase" alt="Languages and frameworks" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,dart,react,angular,flutter,nodejs,nestjs,bun,vite,express,mongodb,supabase" alt="Languages and frameworks" />
   <br>
   <img src="https://skillicons.dev/icons?i=html,css,sass,git,github,vscode" alt="Frontend and developer tools" />
   <br>
@@ -85,12 +85,6 @@ An AI-powered grocery planning app that helps people scan receipts, track grocer
   </a>
   <a href="https://github.com/danailvidev/movies-PWA">
     <img width="390" src="https://github-readme-stats.vercel.app/api/pin/?username=danailvidev&repo=movies-PWA&theme=transparent&border_radius=10" alt="movies-PWA repository card" />
-  </a>
-  <a href="https://github.com/danailvidev/ionic-geotracker">
-    <img width="390" src="https://github-readme-stats.vercel.app/api/pin/?username=danailvidev&repo=ionic-geotracker&theme=transparent&border_radius=10" alt="ionic-geotracker repository card" />
-  </a>
-  <a href="https://github.com/danailvidev/ionic-search">
-    <img width="390" src="https://github-readme-stats.vercel.app/api/pin/?username=danailvidev&repo=ionic-search&theme=transparent&border_radius=10" alt="ionic-search repository card" />
   </a>
 </div>
 
