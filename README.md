@@ -64,6 +64,9 @@
   <a href="https://shealthy.io" target="_blank">
     <img src="https://img.shields.io/badge/Shealthy-Visit%20Project-22C55E?style=for-the-badge" alt="Visit Shealthy" />
   </a>
+  <a href="https://github.com/danailvidev/network-plus-plus" target="_blank">
+    <img src="https://img.shields.io/badge/Network%2B%2B-View%20Project-2563EB?style=for-the-badge" alt="View Network++" />
+  </a>
 </div>
 
 ### [Shealthy](https://shealthy.io)
@@ -75,18 +78,24 @@ An AI-powered grocery planning app that helps people scan receipts, track grocer
 - Grocery insights for price history, store breakdowns, and basket quality
 - Newly launched on iOS and Android
 
+### [Network++](https://github.com/danailvidev/network-plus-plus)
+
+A privacy-first Chrome DevTools network panel that helps developers debug API-heavy applications with faster filtering, richer request inspection, GraphQL visibility, and export-ready debugging data.
+
+- Dedicated DevTools panel for searchable request capture and visual status cues
+- GraphQL-aware inspection for operation names, variables, errors, and repeated calls
+- Network insights for slow endpoints, duplicate requests, cache opportunities, and sensitive data hints
+- Local-first exports for JSON, CSV, HAR, Markdown, MSW handlers, Playwright routes, and cURL
+
 <hr>
 
 ## 🚀 GitHub Projects
 
-Selected public repositories from earlier web app work, product prototypes, and experiments.
+Selected public repository from current side project work.
 
 <div align="center">
-  <a href="https://github.com/danailvidev/team-app">
-    <img width="390" src="https://github-readme-stats.vercel.app/api/pin/?username=danailvidev&repo=team-app&theme=transparent&border_radius=10" alt="team-app repository card" />
-  </a>
-  <a href="https://github.com/danailvidev/movies-PWA">
-    <img width="390" src="https://github-readme-stats.vercel.app/api/pin/?username=danailvidev&repo=movies-PWA&theme=transparent&border_radius=10" alt="movies-PWA repository card" />
+  <a href="https://github.com/danailvidev/network-plus-plus">
+    <img width="390" src="https://github-readme-stats.vercel.app/api/pin/?username=danailvidev&repo=network-plus-plus&theme=transparent&border_radius=10" alt="network-plus-plus repository card" />
   </a>
 </div>
 
