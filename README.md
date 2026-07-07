@@ -69,6 +69,15 @@
   </a>
 </div>
 
+### [Appzilla](https://appzilla.dev)
+
+A cross-store app analytics and optimization platform for tracking mobile app performance, store health, subscriptions, reviews, competitors, and ASO workflows from one workspace.
+
+- Unified iOS and Android dashboards for revenue, downloads, subscriptions, ratings, reviews, and release health
+- Workspace-scoped store connections for App Store Connect, Google Play, public listing data, and competitor tracking
+- ASO intelligence for keyword ranks, chart visibility, metadata experiments, and market comparison
+- AI-assisted workflows for review insights, recommendations, automation, and product-growth decisions
+
 ### [Shealthy](https://shealthy.io)
 
 An AI-powered grocery planning app that helps people scan receipts, track grocery spending, compare stores, generate meal plans, create recipes, and reduce food waste.
